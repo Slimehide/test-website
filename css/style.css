@@ -854,6 +854,20 @@ img{
 .reach-out.who-we-are .outer__reach .desc .inn>p span a{
 	color:#000;
 }
+.outer__conversation a {
+	color:#1799dd;
+}
+.services__wrapper .outer__services .elem .desc>span{
+	display: block;
+	margin-bottom: 12px;
+}
+.services__wrapper .outer__services .elem .desc>span:last-child{
+	margin-bottom: 0px;
+}
+footer .bottom{
+	display: flex;
+	justify-content: flex-end;
+}
 @media (max-width: 1200px){
 	.join__mission .outer__join .desc>p{
 		font-size: 21px;
