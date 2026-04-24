@@ -869,6 +869,9 @@ footer .bottom{
 	justify-content: flex-end;
 }
 @media (max-width: 1200px){
+	.hero__section .outer__hero{
+		min-height: 400px;
+	}
 	.join__mission .outer__join .desc>p{
 		font-size: 21px;
 	}
